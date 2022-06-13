@@ -1,0 +1,18 @@
+h1 is a block level elements - having a line break
+span is not a block level comment 
+br - break 
+hr - horizontal break
+script - should be written at the end of the html, 
+         we want to load the body first.
+h${header $}*3 - generate headings from h1 to h3 - using with emmet code
+lorem200 = emmet code to generate random data
+
+div is the biggest element after body.
+mark - will highlight the text
+code - will show it in the code
+copyright html code - 
+sup - superscript
+sub - subscript
+del - strike through 
+
+
