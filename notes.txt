@@ -14,5 +14,12 @@ copyright html code -
 sup - superscript
 sub - subscript
 del - strike through 
+q -  the quotes, opening and closing 
+abbr - abbvrevation 
 
+It will only respect one space. If u want to create more space 
+use - &nbsp;  - non breaking space
 
+anchor tab : href - where u want to navigate to. 
+how to open links into new tab - target = "blank"
+<a href="mailto:surajkrj.2207@gmail.com">Send</a> - can open email server
